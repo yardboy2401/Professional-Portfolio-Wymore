@@ -1,4 +1,4 @@
-# Week 06 Homework: Portfolio Updates
+# Portfolio Updates-Wymore
 
 ## Your Task
 Update personal portfolio page to include more recent projects and homework links. Display contact information and include links to GitHub and LinkedIn profiles. Include a downloadable pdf of current resume. Display at least 2 examples of recent student work that include the following:
