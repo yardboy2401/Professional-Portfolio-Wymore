@@ -16,7 +16,7 @@ Update LinkedIn Account as well with bio statement, photo, and links to GitHub a
 - CSS Frameworks(Materialize/Bootstrap)
 
 ## Link to GitHub main project
-https://github.com/yardboy2401/week16-portfolio-wymore
+https://github.com/yardboy2401/Professional-Portfolio-Wymore
 
 ## Link to deployed project
 https://yardboy2401.github.io/Professional-Portfolio-Wymore/
